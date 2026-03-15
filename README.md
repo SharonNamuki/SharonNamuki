@@ -63,8 +63,9 @@ Repository: (https://github.com/SharonNamuki/grp8-phase4-project/blob/main/NLP%2
 -Perform data cleaning and transformation to prepare datasets for analysis
 -Build visualization dashboards that communicate agricultural insights   
 
-   *Tools:* Python, Pandas, Matplotlib, Seaborn, Tableau
+   *Tools:*  Python, Pandas, Matplotlib, Seaborn, Tableau
    Repository: (https://github.com/SharonNamuki/agricultural-data-dashboard)
+   
 ---
 ### Agricultural Weather Data Pipeline
 **Goal:** The project demonstrates the process of building a complete data workflow from API data extraction to data storage, analysis, and visualization, using Python and data engineering tools
@@ -72,8 +73,10 @@ Repository: (https://github.com/SharonNamuki/grp8-phase4-project/blob/main/NLP%2
 -Built a data pipeline using Python to extract weather data from an external API and process it for analysis.
 -Stored and managed cleaned data in a SQLite database and performed analytical queries to summarize climate conditions.
 -Performed data cleaning, feature engineering, and visualization to generate insights on agricultural climate indicators across East African Locations
-  *Tools:* Python | APIs | Pandas | SQLite | Data Visualization
+
+  *Tools:* Python, APIs, Pandas, SQLite, Data Visualization
    Repository: (https://github.com/SharonNamuki/agri-pipeline)
+
 ##  What I Bring
 - Strong **business understanding**, not just models
 - Clean, well-documented, reproducible code
