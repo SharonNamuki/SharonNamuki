@@ -56,6 +56,15 @@ Repository: [View Project](https://github.com/SharonNamuki/aviation-accident-ana
 Repository: (https://github.com/SharonNamuki/grp8-phase4-project/blob/main/NLP%20Sentiment%20Analysis%20.ipynb)
 
 ---
+### agricultural-data-dashboard
+**Goal:**  Demonstrate the use of data engineering, data analysis, and visualization systems for agricultural data
+**Highlights:**
+-Develop a data pipeline to ingest and process agricultural datasets
+-Perform data cleaning and transformation to prepare datasets for analysis
+-Build visualization dashboards that communicate agricultural insights   
+
+   *Tools:* Python, Pandas, Matplotlib, Seaborn, Tableau
+   Repository: (https://github.com/SharonNamuki/agricultural-data-dashboard)
 
 ##  What I Bring
 - Strong **business understanding**, not just models
