@@ -2,7 +2,7 @@
 
  **Data Scientist | Machine Learning | Business Analytics**
 
-I’m a data scientist with a strong foundation in data analysis, machine learning, and NLP. I enjoy turning messy, real-world data into clear insights and actionable business recommendations. My work focuses on end-to-end projects — from data cleaning and EDA to modeling, evaluation, and storytelling.
+I’m a data scientist with a strong foundation in data analysis, machine learning, and NLP. I enjoy turning messy, real-world data into clear insights and actionable business recommendations. My work focuses on end-to-end projects from data cleaning and EDA to modeling, evaluation, and storytelling.
 
 ---
 
