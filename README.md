@@ -31,16 +31,17 @@ I’m a data scientist with a strong foundation in data analysis, machine learni
 
 ##  Featured Projects
 
-### Aviation Accident Risk Analysis
-**Goal:** Identify low-risk aircraft for a company entering the aviation industry  
+### Sudan Food Insecurity & Displacement Early Warning Prototype
+**Goal:** Food insecurity forecasting and displacement pressure and hotspot intelligence 
 **Highlights:**
-- Cleaned and standardized accident data
-- Categorized accident severity
-- Identified aircraft and conditions associated with lower risk
-- Delivered business-focused recommendations
+- Data Ingestion & Cleaning
+- Feature Engineering
+- Modeling
+- Evaluation & Explainability
+- Geospatial & Operational Outputs
 
- *Tools:* Python, Pandas, EDA, Visualization, Tableau  
-Repository: [View Project](https://github.com/SharonNamuki/aviation-accident-analysis)
+ *Tools:* Python, Machine Learning, Geospatial Analytics, Tableau  
+Repository: [View Project](https://github.com/SharonNamuki/Sudan_Humanitarian_Crisis_Model)
 
 
 ---
